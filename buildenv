@@ -1,6 +1,6 @@
 # Update bump details accordingly. Use bump check to confirm.
 # bump: jd-version /JD_VERSION="(.*)"/ https://github.com/josephburnett/jd.git|semver:*
-JD_VERSION="2.2.3" # Specify a stable release
+JD_VERSION="2.3.0" # Specify a stable release
 # export ZOPEN_STABLE_TAG="v${JD_VERSION}"
 
 ###
